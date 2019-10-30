@@ -1,0 +1,10 @@
+@import '../variable';
+
+.section{
+  &.home-section{
+    height: 760px;
+  }
+  &.section-purple{
+    background-color: $section-purple;
+  }
+}

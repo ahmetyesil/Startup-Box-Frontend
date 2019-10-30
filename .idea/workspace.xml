@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ddd31ba-a6ff-442a-a6da-18308b1e9fe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Startup-Box-Frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/dist/bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/counterActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Mask@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Shape@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/header-illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/i1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/i1-1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/i3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/i3-1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/Oval-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/Oval-3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/Shape-Copy-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/Shape-Copy-11@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/Shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/Shape@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/activity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/activity@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/camera-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/camera-copy@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/cast-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/cast-copy@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/credit-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/credit-card@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/crosshair-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/crosshair-copy@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/dollar-sign-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/dollar-sign-copy@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/edit-(2)-copy-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/edit-(2)-copy-4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/file-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/file-text@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/file@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/link@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/mail@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/paperclip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/paperclip@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/shopping-bag-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/shopping-bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/shopping-cart-(1)-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/shopping-cart-(1)-copy@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/components/section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/height.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/layout/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/variable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/ActionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/public/dist/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-50827113">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="eslintrc" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.eslintrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.eslintrc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Startup-Box-Frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startup-Box-Frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\ahmet\Desktop\Project\Reactjs\Startup-Box-Frontend\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ddd31ba-a6ff-442a-a6da-18308b1e9fe9" name="Default Changelist" comment="" />
+      <created>1572463476680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572463476680</updated>
+      <workItem from="1572463480288" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="310000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

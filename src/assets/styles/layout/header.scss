@@ -1,0 +1,8 @@
+@import '../variable';
+
+.navbar{
+  &.navbar-fixed{
+   position: fixed;
+    width:100%;
+  }
+}
